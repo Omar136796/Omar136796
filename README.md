@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-0E7490?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
   <a href="mailto:omar136796@gmail.com"><img src="https://img.shields.io/badge/omar136796@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/Omar136796"><img src="https://img.shields.io/badge/Facebook-Omar136796-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <img src="https://img.shields.io/badge/Graduating-January_2027-22D3EE?style=flat-square&logo=bookstack&logoColor=white" alt="Graduating January 2027">
   <img src="https://komarev.com/ghpvc/?username=Omar136796&style=flat-square&color=0E7490&label=Profile+views" alt="Profile views">
 </p>
@@ -195,6 +196,7 @@ You'll find me watching a movie or the latest anime, following **cricket** 🏏 
 
 <p align="center">
   <a href="mailto:omar136796@gmail.com"><img src="https://img.shields.io/badge/Email-omar136796%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/Omar136796"><img src="https://img.shields.io/badge/Facebook-Omar136796-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://github.com/Omar136796"><img src="https://img.shields.io/badge/GitHub-Omar136796-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
