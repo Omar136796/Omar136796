@@ -204,9 +204,10 @@ You'll find me watching a movie or the latest anime, following **cricket** 🏏 
 <p align="center">
   <a href="https://omar136796.github.io"><img src="https://img.shields.io/badge/Portfolio-omar136796.github.io-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
   <a href="https://omar136796.github.io/cv.html"><img src="https://img.shields.io/badge/CV-View_%26_download-22D3EE?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
+  <a href="https://omar136796.github.io/resume.html"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-1_page-F0643C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé"></a>
 </p>
 
-<p align="center"><i>🌐 Explore my projects, research and journey on my <a href="https://omar136796.github.io">portfolio website</a>, or grab my <a href="https://omar136796.github.io/cv.html">CV</a>.</i></p>
+<p align="center"><i>🌐 Explore my projects, research and journey on my <a href="https://omar136796.github.io">portfolio website</a>, or grab my <a href="https://omar136796.github.io/cv.html">full CV</a> or <a href="https://omar136796.github.io/resume.html">one-page résumé</a>.</i></p>
 
 <p align="center">
   <img src="assets/footer.svg" alt="" width="100%">
