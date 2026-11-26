@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:22D3EE&height=220&section=header&text=Omar%20Faruk&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%C2%B7%20BRAC%20University&descAlignY=58&descSize=18&animation=fadeIn" alt="Omar Faruk" width="100%">
+  <img src="assets/header.svg" alt="Omar Faruk · Computer Science & Engineering · BRAC University" width="100%">
 </p>
 
 <p align="center">
@@ -201,5 +201,5 @@ You'll find me watching a movie or the latest anime, following **cricket** 🏏 
 <p align="center"><i>A portfolio website and résumé are on the way. Stay tuned! 🚧</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0F172A&height=120&section=footer" alt="" width="100%">
+  <img src="assets/footer.svg" alt="" width="100%">
 </p>
