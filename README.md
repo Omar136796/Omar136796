@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-0E7490?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
   <a href="mailto:omar136796@gmail.com"><img src="https://img.shields.io/badge/omar136796@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://omar136796.github.io"><img src="https://img.shields.io/badge/Portfolio-omar136796.github.io-0E7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.facebook.com/Omar136796"><img src="https://img.shields.io/badge/Facebook-Omar136796-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <img src="https://img.shields.io/badge/Graduating-January_2027-22D3EE?style=flat-square&logo=bookstack&logoColor=white" alt="Graduating January 2027">
   <img src="https://komarev.com/ghpvc/?username=Omar136796&style=flat-square&color=0E7490&label=Profile+views" alt="Profile views">
@@ -200,7 +201,12 @@ You'll find me watching a movie or the latest anime, following **cricket** 🏏 
   <a href="https://github.com/Omar136796"><img src="https://img.shields.io/badge/GitHub-Omar136796-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center"><i>A portfolio website and résumé are on the way. Stay tuned! 🚧</i></p>
+<p align="center">
+  <a href="https://omar136796.github.io"><img src="https://img.shields.io/badge/Portfolio-omar136796.github.io-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
+  <a href="https://omar136796.github.io/cv.html"><img src="https://img.shields.io/badge/CV-View_%26_download-22D3EE?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
+</p>
+
+<p align="center"><i>🌐 Explore my projects, research and journey on my <a href="https://omar136796.github.io">portfolio website</a>, or grab my <a href="https://omar136796.github.io/cv.html">CV</a>.</i></p>
 
 <p align="center">
   <img src="assets/footer.svg" alt="" width="100%">
